@@ -1,0 +1,1 @@
+This tool was made for ethical and educational use, it is not a tool to be used for malicious/criminal purposes. You must bear in mind that the moment you use this to discover information about domains without proper permission, it can quickly be assumed that you are a cybercriminal, so be ethical and make good use of the tool;
